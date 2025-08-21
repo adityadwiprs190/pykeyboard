@@ -1,4 +1,4 @@
-from pyrogram.emoji import *
+from pykeyboard.emoji import *
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from typing import List, Union
 
